@@ -9,6 +9,7 @@
 - AWS Glue Studio
 - Amazon Managed Workflows for Apache Airflow (MWAA)
 
+### Dashboard
 ![The Dashboard with QuickSight](./screenshots/quicksight_mysql_dashboard.png)
 
 Useful links:
