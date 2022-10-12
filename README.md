@@ -1,5 +1,7 @@
 # Dashboard Using AWS DemoGO Prime
 
+Tech Stack: MySQL, Amazon S3, AWS Cloud Formation, AWS Data Migration Service (DMS), Amazon QuickSight, AWS Glue Studio, Amazon Managed Workflows for Apache Airflow (MWAA)
+
 ![The Dashboard with QuickSight](./screenshots/quicksight_mysql_dashboard.png)
 
 Useful links:
