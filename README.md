@@ -1,6 +1,6 @@
 # Dashboard Using AWS DemoGO Prime
 
-### Tech Stack: 
+### Tech Stack
 - MySQL
 - Amazon S3 
 - AWS Cloud Formation 
